@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+""" Program to compute fibonacci series"""
+
 def fibo(n):
 	if n <= 1:
 		return n
